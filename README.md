@@ -18,6 +18,9 @@ React is a pretty basic framework, BUT also a very reliable one. It is used (or 
 
 What will I be creating. As mentioned before I will be creating a simple portofolio using REACT components for the introduction/hero, projects and contact section. it will be live to visit with a URL.
 
+Link to demo: https://mitchelstaal.netlify.app/
+
+
 ## Usage
 
 If you want to take a look at this project for yourself you can clone this repository to your desktop, download the packages using ```npm install```. Run the application using node, by running the command ```npm run dev```. 
@@ -25,8 +28,10 @@ If you want to take a look at this project for yourself you can clone this repos
 ## Proces
 
 Obviously I had to come up with a design first, so I started thinking about what the most important things were that I wanted to display. To keep it simple I wanted to only display:
-* Some quick information
+* Some quick information (with links to social media)
+* Downloadable CV
 * My projects (with a link to the github)
+* Little skills section
 * A way of contacting me besides my social media links.
 
 I followed a course on youtube on how to make custom components in react.
@@ -37,7 +42,14 @@ And I also used the react documenation to get started with installing a react pr
 
 https://react.dev/learn
 
+As a little extra I added a light and dark mode
+
 ### Designs
+
+![hero](/src/assets/hero.png)
+![project](/src/assets/project.png)
+![skills](/src/assets/skill.png)
+![contact](/src/assets/contact.png)
 
 ## Reflection
 

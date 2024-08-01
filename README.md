@@ -14,9 +14,13 @@ My goal with this project is, delivering a nice product (the protofolio) and div
 
 React is a pretty basic framework, BUT also a very reliable one. It is used (or atleast a version of it) by almost all development companies, which makes it an essential skill to learn if I want to further my carreer in the web development field.
 
+React has a lot of competitors that are very similar, so learning it will help me work more easily with f.e Next.js or Vue. 
+
+What made me choose React, is because it uses a lot of the fundamentals that other frameworks use, so as mentioned before it will help me quickly learn others as well.
+
 ## Product
 
-What will I be creating. As mentioned before I will be creating a simple portofolio using REACT components for the introduction/hero, projects and contact section. it will be live to visit with a URL.
+What will I be creating. As mentioned before I will be creating a simple portofolio using REACT components for the introduction/hero, projects, skills and contact section. it will be live to visit with a URL.
 
 Link to demo: https://mitchelstaal.netlify.app/
 
@@ -34,6 +38,8 @@ Obviously I had to come up with a design first, so I started thinking about what
 * Little skills section
 * A way of contacting me besides my social media links.
 
+
+
 I followed a course on youtube on how to make custom components in react.
 
 Link to video: https://www.youtube.com/watch?v=9D1x7-2FmTA
@@ -42,14 +48,22 @@ And I also used the react documenation to get started with installing a react pr
 
 https://react.dev/learn
 
-As a little extra I added a light and dark mode
+As a little extra I added a light and dark mode. It also has a mobile design.
 
 ### Designs
 
 ![hero](/src/assets/hero.png)
+Here I made the hero/introduction section. I wanted to keep it simple, because this website is mostly meant for showcasing my projects. So I put the essentials like my name, title, links to social media and my resume + a picture so they know how I am.
+
 ![project](/src/assets/project.png)
+Now ofcourse, the most important part, the projects. I was planning on making the user able to click the project and instead of going to github they would get a more in-depth description about the project, but due to time and it being low priority I will save this feature for a later update.
+
 ![skills](/src/assets/skill.png)
+A quick, and simple overview of some of the skills I apply to my projects (with more to come ofcourse).
+
 ![contact](/src/assets/contact.png)
+And finally I wanted to add a contact form that would be albe to send a message to me through email.
+
 
 ## Reflection
 

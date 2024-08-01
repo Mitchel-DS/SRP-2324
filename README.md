@@ -52,6 +52,8 @@ As a little extra I added a light and dark mode. It also has a mobile design.
 
 ### Designs
 
+![sketch](/src/assets/Sketch%20.png)
+
 ![hero](/src/assets/hero.png)
 Here I made the hero/introduction section. I wanted to keep it simple, because this website is mostly meant for showcasing my projects. So I put the essentials like my name, title, links to social media and my resume + a picture so they know how I am.
 
